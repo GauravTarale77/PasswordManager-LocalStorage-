@@ -36,9 +36,9 @@ git clone https://github.com/GauravTarale77/PasswordManager-LocalStorage-.git
 cd PasswordManager-LocalStorage-
 
 3. Install dependencies
-npm run dev
+npm install
 # or
-yarn dev
+yarn
 
 4. Start the development server
 npm run dev
