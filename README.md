@@ -1,12 +1,49 @@
-# React + Vite
+# 🔐 Password Manager - Local Storage (Next.js + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern password manager built using **Next.js**, **Vite**, **React**, and **JavaScript**, storing credentials securely in the browser using **LocalStorage**.
 
-Currently, two official plugins are available:
+This project was created to manage website login information in a secure and simple way — all data is stored locally on the user's device.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Add, view, and delete website login credentials
+- ✅ Stores data in the browser's LocalStorage (no backend required)
+- ✅ Built with modern stack: Next.js, Vite, React
+- ✅ Responsive and clean UI
+- ✅ GitHub profile icon in footer (safe redirection)
+
+---
+
+## 🚀 How to Run the Project
+
+### ⚙️ Prerequisites
+
+- [Node.js](https://nodejs.org/) (v16 or higher recommended)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+
+---
+
+### 🧑‍💻 Steps to Run
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/GauravTarale77/PasswordManager-LocalStorage-.git
+
+2. Navigate into the project directory
+cd PasswordManager-LocalStorage-
+
+3. Install dependencies
+npm run dev
+# or
+yarn dev
+
+4. Start the development server
+npm run dev
+# or
+yarn dev
+
+5. Open in your browser
+Visit: http://localhost:3000
